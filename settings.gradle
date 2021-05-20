@@ -1,0 +1,4 @@
+include ':library_two'
+include ':library_one'
+include ':app'
+rootProject.name = "jitpackTest"
